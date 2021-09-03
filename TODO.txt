@@ -1,2 +1,1 @@
 zmiana sterowania porzy zmianie kamery dopiero po puszczeniu przycisku
-potestowac camera spliny i podazanie kamera za graczem
