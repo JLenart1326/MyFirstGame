@@ -1,1 +1,2 @@
-zmiana sterowania porzy zmianie kamery dopiero po puszczeniu przycisku
+zrobić możliwość łączenia spline kamer
+zrobic zmiane skali boxa
