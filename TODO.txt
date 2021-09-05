@@ -1,2 +1,1 @@
-zrobić możliwość łączenia spline kamer
-zrobic zmiane skali boxa
+naprawic blad z laczeniem splinow
