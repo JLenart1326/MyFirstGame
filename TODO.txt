@@ -8,7 +8,6 @@ ustawic inny behaviour dla warroka
 dodac krew 
 combat ustawic przy ataku w strone przeciwnika
 przy ataku cofanc sie troche automatycznie
-input lag z zadawania obrazen
 
 
 
