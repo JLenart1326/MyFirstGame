@@ -1,32 +1,18 @@
-obczaic custom volumy
+
+przyspieszyc gre na 130%
+zmiana inputu po zmianie kamery dopiero po puszczeniu inputu
+sprawdzic bug z trzymaniem przedmiotow
+
+
 ustawic inny behaviour dla warroka
 dodac krew 
 combat ustawic przy ataku w strone przeciwnika
 przy ataku cofanc sie troche automatycznie
-przyspieszyc gre na 130%
-zmiana inputu po zmianie kamery dopiero po puszczeniu inputu
-bird mode ustawic na wymuszona zmiane przez wolumin
-bug przy wyciaganiu broni
-mozliwosc interakcji podczas combatu
-jezeli w trakcie combatu wejdzie sie w interakcje to po koncu interakcji wrocic do combatu
-sprawdzic bug z trzymaniem przedmiotow
-impact obrazen po 3 hit combo
+input lag z zadawania obrazen
 
 
-
-
-
-
-zmiana kamery natychmiastowa
-przy lmb po aktywowaniu combata nie ma animacji i od razu jest atak
-usuniete animacje chowania i wycigania broni
 
 
 
 wiekszy lag na kamerze:
 dynamicznie sprawdzac odleglosc miedzy active camera a playerem, jezeli odleglosc jest wieksza od ilus to dopiero wtedy ma sie ruszyc
-
-bird mode ustawic na wymuszona zmiane przez wolumin:
-mozliwosc łączenia
-dodac widget
-zmienic kamere na stary rodzaj
