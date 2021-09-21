@@ -1,17 +1,18 @@
+1. ustawic inny behaviour dla warroka
+2. wiekszy lag na kamerze
+3. zmiana inputu po zmianie kamery dopiero po puszczeniu inputu
+4. przy ataku cofanc sie troche automatycznie
+5. combat ustawic przy ataku w strone przeciwnika
+6. dodac krew 
+7. zmniejszyc zasieg ataku warroka
+8. dodac ze rolla nie mozna przerwac
+9. naprawic umieranie warroka
+10. zmienic input rolla (na double click i wtedy crouch na ctrl)
 
+
+
+
+
+Done:
 przyspieszyc gre na 130%
-zmiana inputu po zmianie kamery dopiero po puszczeniu inputu
-sprawdzic bug z trzymaniem przedmiotow
-
-
-ustawic inny behaviour dla warroka
-dodac krew 
-combat ustawic przy ataku w strone przeciwnika
-przy ataku cofanc sie troche automatycznie
-
-
-
-
-
-wiekszy lag na kamerze:
-dynamicznie sprawdzac odleglosc miedzy active camera a playerem, jezeli odleglosc jest wieksza od ilus to dopiero wtedy ma sie ruszyc
+sprawdzic bug z trzymaniem przedmiotow (przy ustawianiu odleglosci jest problem)
